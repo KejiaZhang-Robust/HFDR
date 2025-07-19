@@ -15,10 +15,12 @@
   <img alt="Language" src="https://img.shields.io/github/languages/top/KejiaZhang-Robust/HFDR?style=flat-square&color=9acd32">
 </div>
 
+This repository contains the official PyTorch implementation of our paper: "Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness".
+
 ---
 
 📈 Motivation
-Despite the success of adversarial training (AT), recent studies reveal a low-frequency bias, where models increasingly rely on low-frequency components while suppressing high-frequency details—often at the expense of semantic richness and robustness.
+Despite the success of adversarial training (AT), recent studies reveal a low-frequency bias, where models increasingly rely on low-frequency components while suppressing high-frequency details, often at the expense of semantic richness and robustness.
 
 We conduct a frequency-domain analysis to better understand this phenomenon and motivate our method.
 
