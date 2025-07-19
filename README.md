@@ -17,6 +17,26 @@
 
 ---
 
+📈 Motivation
+
+<p align="center">
+  <img src="fig/intro.png" width="80%">
+</p>
+
+<p align="center" style="font-size:14px">
+  <b>Figure 1:</b> Frequency component retention analysis under varying adversarial perturbation strengths ($\epsilon = 0, 4, 8, 12$). NT models rely on a broader frequency spectrum but are highly vulnerable to perturbations, especially in high-frequency regions. In contrast, AT models exhibit a low-frequency bias, leading to underutilization of informative high-frequency cues.
+</p>
+
+<p align="center">
+  <img src="fig/intro_1.png" width="92%">
+</p>
+
+<p align="center" style="font-size:14px">
+  <b>Figure 2:</b> Comparison of post-softmax confidence across frequency components for NT, AT, and our proposed model. While NT and AT models either overly depend on or neglect high-frequency information, our method (HFDR) achieves a more balanced utilization across the spectrum, recovering meaningful confidence from high-frequency cues even under adversarial perturbations.
+</p>
+
+---
+
 ## 🔧 Installation
 
 To begin using HFDR, set up your environment by following the steps below:
