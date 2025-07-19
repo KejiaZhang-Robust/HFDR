@@ -1,0 +1,19 @@
+name: HFDR
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch=2.4.0
+  - torchvision=0.19.0
+  - pytorch-cuda=12.1
+  - numpy
+  - pip:
+      - easydict
+      - pillow
+      - pyyaml
+      - scipy
+      - scikit-learn
+      - torchaudio == 2.4.0
+      - requests
+      - tdqm
