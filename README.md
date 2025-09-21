@@ -120,3 +120,19 @@ python test_robust.py
 ```
 
 ---
+
+#¥ 📖 Citation
+
+If you find this work useful in your research, please cite our paper:
+
+```
+@article{ZHANG2026108070,
+  title = {Mitigating low-frequency bias: Feature recalibration and frequency attention regularization for adversarial robustness},
+  author={Zhang, Kejia and Weng, Juanjuan and Cai, Yuanzheng and Luo, Zhiming and Li, Shaozi},
+  journal = {Neural Networks},
+  volume = {193},
+  pages = {108070},
+  year = {2026},
+  doi = {https://doi.org/10.1016/j.neunet.2025.108070}
+}
+```
