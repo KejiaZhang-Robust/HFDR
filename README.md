@@ -5,6 +5,9 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
+  <a href="https://arxiv.org/abs/2407.04016">
+    <img src="https://img.shields.io/badge/arXiv-2407.04016-b31b1b?style=flat-square" alt="arXiv" style="margin: 0 0px;" />
+  </a>
   <!-- License Badge -->
   <img alt="GitHub License" src="https://img.shields.io/github/license/KejiaZhang-Robust/HFDR?style=flat-square">
   <!-- Language Badge -->
